@@ -4,4 +4,4 @@ A decentralized application (Dapps) on Solana in which you can :
 2.  Send SOL to another Public Key
 3. Show SOL balance
 4. Sign a message using your Wallet
-5. 5. Connect Your wallet to the Dapp 
+5. Connect Your wallet to the Dapp 
